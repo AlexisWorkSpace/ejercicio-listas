@@ -1,2 +1,2 @@
 # ejercicio-listas
-cosas de piton
+cosas de python
